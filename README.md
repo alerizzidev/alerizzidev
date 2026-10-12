@@ -16,6 +16,8 @@ I'm **Alessandro Rizzi**, a Full-Stack Developer focused on user experience. I b
 To me, code isn't just functionality—it's perception. I focus on the small decisions that make a product feel effortless: structure, spacing, motion, responsiveness, performance and accessibility.
 
 <pre>
+$ cat principles.txt
+
 01  UNDERSTAND   the problem before choosing the tools
 02  STRUCTURE    keep the solution clear and maintainable
 03  REFINE       remove friction from the user experience
