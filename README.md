@@ -63,16 +63,6 @@ To me, code isn't just functionality—it's perception. I focus on the small dec
   <a href="https://alessandrorizzi.dev"><img src="https://img.shields.io/badge/EXPLORE_ALL_13_PROJECTS-OPEN_PORTFOLIO-312E81?style=for-the-badge&labelColor=0B1020&color=06B6D4" alt="Explore all projects" /></a>
 </p>
 
-## <code>$ activity --render=3d</code>
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="Animated 3D contribution calendar" />
-</p>
-
-<p align="center">
-  <sub>Contribution landscape · regenerated automatically every day</sub>
-</p>
-
 ## <code>$ contact</code>
 
 If you have an idea to build or improve, [let's talk](https://alessandrorizzi.dev).
