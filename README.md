@@ -26,7 +26,9 @@ $ cat principles.txt
 ## <code>$ stack --visual</code>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,java,cpp,spring,swift,supabase,postgres,vercel,arduino,figma,git,github&perline=10" alt="Technologies and tools" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,git,java,javascript,kotlin,python,swift,typescript,vscode,xcode,html,react,nextjs,vuejs,angular,css,bootstrap,tailwindcss,vite,shadcn,nodejs,mongodb,mysql,postgresql,supabase,photoshop,illustrator,figma,wordpress,arduino,linux,apple,ubuntu,docker&perline=18" alt="All technologies and tools shown in the portfolio" />
+  <img src="https://cdn.simpleicons.org/csharp/FFFFFF" width="48" height="48" alt="C sharp" />
+  <img src="https://cdn.simpleicons.org/wix/FFFFFF" width="48" height="48" alt="Wix" />
 </p>
 
 ## <code>$ ls ~/featured</code>
