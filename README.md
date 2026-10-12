@@ -1,4 +1,4 @@
-<!--
+[<!--
   Profile README for github.com/alerizzidev
   Terminal-style presentation based on alessandrorizzi.dev
 -->
@@ -72,3 +72,4 @@ alessandro@github:~$ _
 ```
 
 
+](https://www.linkedin.com/in/alessandro-rizzi-1b5883398/)
