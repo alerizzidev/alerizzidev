@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://alessandrorizzi.dev"><img src="https://img.shields.io/badge/PORTFOLIO-0B1020?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://alessandrorizzi.dev"><img src="./assets/portfolio-badge.png" height="36" alt="Portfolio" /></a>
   <a href="https://github.com/alerizzidev"><img src="https://img.shields.io/badge/GITHUB-0B1020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <img src="https://img.shields.io/badge/BASED_IN-ITALY-0B1020?style=for-the-badge&labelColor=0B1020&color=0891B2" alt="Based in Italy" />
 </p>
