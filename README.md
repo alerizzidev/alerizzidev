@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/BASED_IN-ITALY-0B1020?style=for-the-badge&labelColor=0B1020&color=0891B2" alt="Based in Italy" />
 </p>
 
-## <code>$ whoami</code>
+## <img src="./assets/headings/whoami.svg" height="30" alt="$ whoami" />
 
 I'm **Alessandro Rizzi**, a Full-Stack Developer focused on user experience. I build web apps, platforms and software that feel clear and natural to use.
 
@@ -23,7 +23,7 @@ $ cat principles.txt
 03  REFINE       remove friction from the user experience
 </pre>
 
-## <code>$ stack --visual</code>
+## <img src="./assets/headings/stack.svg" height="30" alt="$ stack --visual" />
 
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,git,java,javascript,kotlin,python,swift,typescript,vscode,xcode,html,react,nextjs,vuejs,angular,css,bootstrap,tailwindcss,vite,shadcn,nodejs,mongodb,mysql,postgresql,supabase,photoshop,illustrator,figma,wordpress,arduino,linux,apple,ubuntu,docker&perline=18" alt="All technologies and tools shown in the portfolio" />
@@ -31,7 +31,7 @@ $ cat principles.txt
   <img src="https://cdn.simpleicons.org/wix/FFFFFF" width="48" height="48" alt="Wix" />
 </p>
 
-## <code>$ ls ~/featured</code>
+## <img src="./assets/headings/featured.svg" height="30" alt="$ ls ~/featured" />
 
 | Project | What it does | Built with |
 |---|---|---|
@@ -41,7 +41,7 @@ $ cat principles.txt
 | **GEOP Calendar Automation** | Extracts university lessons and exams from GEOP, creates ICS files and syncs Google Calendar. | Python · Web scraping · ICS |
 | **ParentesiGM.com** | Institutional website with responsive brand storytelling, lead flows and analytics. | React · Node.js · Supabase · Vercel |
 
-## <code>$ git log --projects</code>
+## <img src="./assets/headings/projects.svg" height="30" alt="$ git log --projects" />
 
 | # | Project | Description · technology |
 |---|---|---|
@@ -63,7 +63,7 @@ $ cat principles.txt
   <a href="https://alessandrorizzi.dev"><img src="https://img.shields.io/badge/EXPLORE_ALL_13_PROJECTS-OPEN_PORTFOLIO-312E81?style=for-the-badge&labelColor=0B1020&color=06B6D4" alt="Explore all projects" /></a>
 </p>
 
-## <code>$ contact</code>
+## <img src="./assets/headings/contact.svg" height="30" alt="$ contact" />
 
 If you have an idea to build or improve, [let's talk](https://alessandrorizzi.dev).
 
