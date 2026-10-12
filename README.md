@@ -1,75 +1,27 @@
-[<!--
-  Profile README for github.com/alerizzidev
-  Terminal-style presentation based on alessandrorizzi.dev
--->
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Alessandro Rizzi
+=========================================================================================================================================
 
-<div align="center">
+Full-Stack Developer
+--------------------
 
-# `alessandrorizzi.dev`
+* 🌍  I'm based in Milan, Italy
+* 🖥️  See my portfolio at [My Portfolio](http://alessandrorizzi.dev)
+* ✉️  You can contact me at [alinoposta@gmail.com](mailto:alinoposta@gmail.com)
+* 👥  I'm looking to collaborate on interesting project
 
-### Full-Stack Developer · IT & AI Business Solution
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" alt="Kotlin" title="Kotlin" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" alt="Swift" title="Swift" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode-colored.svg" alt="XCode" title="XCode" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" alt="Vue" title="Vue" width="36" height="36" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" title="Angular" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" alt="Shadcn/ui" title="Shadcn/ui" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" alt="Illustrator" title="Illustrator" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" alt="Wix" title="Wix" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+</p>
 
-`Building digital experiences that feel natural to use.`
+### Socials
 
-[Portfolio](https://alessandrorizzi.dev) · [GitHub](https://github.com/alerizzidev)
+<p align="left"> <a href="https://www.github.com/alerizzidev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/alessandro-rizzi-1b5883398/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+### Badges
 
-</div>
+<b>My GitHub Stats</b>
 
-```console
-alessandro@github:~$ whoami
-Alessandro Rizzi — Full-Stack Developer focused on user experience.
+<a href="http://www.github.com/alerizzidev"><img src="https://github-readme-stats.vercel.app/api?username=alerizzidev&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ec4899&icon_color=3382ed&bg_color=27272a&hide_border=true&show_icons=true" alt="alerizzidev's GitHub stats" /></a>
 
-alessandro@github:~$ cat philosophy.txt
-Code isn't just functionality — it's perception.
-I build clear, fast and intuitive products that reduce friction.
-Understand first. Structure second. Refine last.
-```
+<a href="http://www.github.com/alerizzidev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alerizzidev&stroke=ec4899&background=27272a&ring=facc15&fire=facc15&currStreakNum=ec4899&currStreakLabel=facc15&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a>
 
-## `~/about`
-
-I design and build web apps, platforms and software with a focus on clarity, performance and accessibility. Every decision—from spacing to motion and responsiveness—should help people understand and use a product with less effort.
-
-My approach is pragmatic: understand the problem, choose a clean structure, then refine the experience. I aim to turn ideas into reliable, modern and immediate digital products.
-
-## `~/toolkit`
-
-```text
-HTML · CSS · JavaScript · TypeScript · React · Next.js · Node.js
-Java · Spring Boot · C++ · Python · SQL · SwiftUI
-Supabase · Vercel · Google Apps Script · Google Sheets API
-Arduino · ESP32 · Embedded AI · WebSocket · REST APIs
-Figma · GitHub · Codex · OpenAI · Claude
-```
-
-## `~/projects` — 13 projects
-
-| # | Project | Overview | Stack |
-|---|---|---|---|
-| 01 | **Smart Face Security Lock AI** | Edge AI smart lock with real-time facial recognition (99.7% accuracy); local user data and embedded access control. | C++ · ESP32-CAM · Arduino · Embedded AI |
-| 02 | **Smart Attendance System** | Employee attendance with QR and password sign-in, shift handling, work-hour calculations and monthly reports. | React · Google Apps Script · Google Sheets API |
-| 03 | **TCT — Travel Car Trip** | iOS trip tracking with continuous GPS, trip history, Live Activities and home-screen widgets. | Swift · SwiftUI · CoreLocation · WidgetKit |
-| 04 | **Line Follower Robot** | Autonomous line-following robot with obstacle avoidance and manual joystick control. | Arduino · C++ · IR · Ultrasonic · Servo |
-| 05 | **yt-dlp Desktop Downloader** | Desktop tool for playlists, single-track downloads and a local media library. | Python · yt-dlp |
-| 06 | **Home Assistant Dashboard** | Always-on smart-home dashboard with live device monitoring and OTP authentication. | HTML · CSS · JavaScript · REST API |
-| 07 | **Personal Portfolio** | Responsive, AI-inspired portfolio with dynamic project details, interactive UI and backend integrations. | Next.js · TypeScript · Tailwind CSS · Supabase · Vercel |
-| 08 | **GEOP Calendar Automation** | Automates lesson and exam extraction from GEOP, generates ICS files and syncs events to Google Calendar. | Python · Web Scraping · ICS · Google Calendar |
-| 09 | **NFC Digital Business Card** | Mobile-first contact and portfolio sharing through NFC or a direct link. | Next.js · TypeScript · Tailwind CSS · NFC |
-| 10 | **EnVault** | Private owner-only vault for managing application `.env` files through a web app and CLI. | Next.js · React · TypeScript · Supabase · Postgres · AES-256-GCM |
-| 11 | **ParentesiGM.com** | Institutional website with responsive brand storytelling, lead flows and analytics. | React · Node.js · Supabase · Vercel · Tailwind CSS |
-| 12 | **CodexStatus** | Physical LED display that turns AI coding activity into real-time status colors and animations. | ESP32 · C++ · WS2812 · Node.js · WebSocket · React · SwiftUI |
-| 13 | **DoorHub** | Battery-powered e-paper hub for remote room status, alerts and low-power ambient information. | ESP32-S3 · C++ · E-Paper · WebSocket · Wi-Fi · SwiftUI |
-
-## `~/contact`
-
-Interested in working together or discussing a project?
-
-- Portfolio: [alessandrorizzi.dev](https://alessandrorizzi.dev)
-- GitHub: [@alerizzidev](https://github.com/alerizzidev)
-- Consultation: book a 15-minute call through the portfolio
-
-```console
-alessandro@github:~$ _
-```
-
-
-](https://www.linkedin.com/in/alessandro-rizzi-1b5883398/)
+<a href="https://github.com/alerizzidev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alerizzidev&langs_count=10&title_color=facc15&text_color=ec4899&icon_color=3382ed&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
