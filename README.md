@@ -1,10 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B18,45:312E81,100:0891B2&height=230&section=header&text=ALESSANDRO%20RIZZI&fontSize=48&fontColor=E6F1FF&animation=fadeIn&fontAlignY=36&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20UX%20%E2%80%A2%20IT%20%26%20AI&descSize=16&descAlignY=57" width="100%" alt="Alessandro Rizzi — Full-Stack Developer" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1100&color=22D3EE&center=true&vCenter=true&width=760&height=48&lines=I+build+clear+digital+experiences;Full-stack+development+%7C+UX+%7C+IoT;From+idea+to+reliable+product" alt="Animated intro" />
+  <img src="./assets/profile-banner.svg" width="100%" alt="Alessandro Rizzi — Full-Stack Developer · UX · IT & AI" />
 </p>
 
 <p align="center">
@@ -69,8 +65,4 @@ If you have an idea to build or improve, [let's talk](https://alessandrorizzi.de
 
 <p align="center">
   <a href="https://alessandrorizzi.dev"><img src="https://img.shields.io/badge/START_A_PROJECT-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Start a project" /></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,55:312E81,100:080B18&height=110&section=footer" width="100%" alt="" />
 </p>
