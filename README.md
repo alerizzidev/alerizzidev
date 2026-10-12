@@ -27,7 +27,7 @@ $ cat principles.txt
 
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,git,java,javascript,kotlin,python,swift,typescript,vscode,xcode,html,react,nextjs,vuejs,angular,css,bootstrap,tailwindcss,vite,shadcn,nodejs,mongodb,mysql,postgresql,supabase,photoshop,illustrator,figma,wordpress,arduino,linux,apple,ubuntu,docker&perline=18" alt="All technologies and tools shown in the portfolio" />
-  <img src="https://cdn.simpleicons.org/csharp/FFFFFF" width="48" height="48" alt="C sharp" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C sharp" />
   <img src="https://cdn.simpleicons.org/wix/FFFFFF" width="48" height="48" alt="Wix" />
 </p>
 
