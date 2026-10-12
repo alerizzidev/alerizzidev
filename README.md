@@ -128,5 +128,5 @@ To me, code isn't just functionality—it's perception. I focus on the small dec
 If you have an idea to build or improve, [let's talk](https://alessandrorizzi.dev).
 
 <p align="center">
-  <a href="https://alessandrorizzi.dev"><img src="https://img.shields.io/badge/START_A_PROJECT-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Start a project" /></a>
+  <a href="https://alessandrorizzi.dev"><img src="./assets/start-project-badge.svg" alt="Start a project" /></a>
 </p>
