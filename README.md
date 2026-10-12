@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Alessandro Rizzi — Full-Stack Developer · UX · IT & AI" />
+  <img src="./assets/profile-terminal.gif" width="100%" alt="Alessandro Rizzi — terminal profile" />
 </p>
 
 <p align="center">
